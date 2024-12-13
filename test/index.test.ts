@@ -21,6 +21,6 @@ describe('index', () => {
     });
 
 	it('should test something', () => {
-		expect(() => () => { throw Error('paramName is required') }).toThrow();
+		expect(() => { throw new Error('paramName is required') }).toThrow('paramName is required');
 	});
 });
