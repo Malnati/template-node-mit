@@ -10,8 +10,12 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    ignore:
+      - dependency-name: "@Malnati/*"
   # Monitoramento para GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/" # Diretório para ações do GitHub
     schedule:
       interval: "weekly" # Verificar atualizações semanalmente
+    ignore:
+      - dependency-name: "@Malnati/*"
