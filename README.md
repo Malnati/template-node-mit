@@ -2,6 +2,11 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Coverage](https://img.shields.io/codecov/c/github/your-username/project-template)
+![Version](https://img.shields.io/npm/v/project-template)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Downloads](https://img.shields.io/npm/dt/project-template)
+
 
 ## Description
 A template for GitHub projects with best practices. This template includes examples of organization, documentation, and automation to streamline development and collaboration.
