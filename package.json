@@ -1,1 +1,25 @@
-
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "A template for GitHub projects with best practices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/project-template.git"
+  },
+  "keywords": [
+    "template",
+    "best-practices",
+    "github"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/project-template/issues"
+  },
+  "homepage": "https://github.com/your-username/project-template#readme"
+}
